@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511363122916",
+    "project_id": "signin-poc-a6200",
+    "storage_bucket": "signin-poc-a6200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511363122916:android:40fc71a6803d39433ccef1",
+        "android_client_info": {
+          "package_name": "com.rajivverma.google_signin_poc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511363122916-35tpm14mocof92o377kahgfv5dqag1fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajivverma.google_signin_poc",
+            "certificate_hash": "3e454644f198e1fb73ae02678cb1e55f2ba32c1f"
+          }
+        },
+        {
+          "client_id": "511363122916-tg4s03fd1l6vmgf2r96rtl01gncqc8p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5g1x1XzN96_Xu3sVwNZVVNIFNF5h44Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511363122916-tg4s03fd1l6vmgf2r96rtl01gncqc8p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
